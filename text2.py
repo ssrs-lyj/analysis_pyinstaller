@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # 设置你的个人访问令牌和要访问的仓库
-token = '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'  # token!!!
+token = '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'  # token!!!
 repo_owner = 'pyinstaller'
 repo_name = 'pyinstaller'
 
